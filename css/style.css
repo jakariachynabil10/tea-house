@@ -1,0 +1,36 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Manrope&family=Poppins:wght@200;300;400&family=Work+Sans:ital,wght@1,600&display=swap');
+
+
+
+
+*{
+    font-family: 'Manrope', sans-serif;
+}
+
+.btn{
+    border: 1px solid;
+    padding: 18px 19px;
+    border-radius: 10px;
+    background: linear-gradient(to right,rgb(255,137,56), rgb(255,0,0) );
+    color: white;
+}
+
+.btn-2{
+    border: 1px solid white;
+    padding: 15px 28px;
+    border-radius: 8px;
+    background-color: whitesmoke;
+}
+
+.text-gradient{
+    background: -webkit-linear-gradient(rgba(255, 0, 0, 1), rgba(255, 137, 56, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.background-gradient{
+    background: linear-gradient(to right,rgb(255,137,56), rgb(255,0,0) );
+    border: 1px solid white;
+    border-radius: 10px;
+}
